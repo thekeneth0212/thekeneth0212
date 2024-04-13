@@ -5,15 +5,12 @@
 </div>
 <img src="imagen.png">
 
-LUYouTube_Channel_Subseribersl(https://ing.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)]
-(https://youtube.com/aristidevs?sub_confirmation=1)
-LlTwitch_Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
-L!GifHub_followersl(https://img.stpelds.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-! [Discord_Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+
 
 ## Sobre mi
 
 - Desarrollador Web 🖥️
+- Frontend❇️ and Backend➿
 - Desarrollador de software con experiencia integral en 🧑‍💻soluciones tecnológicas🧑‍💻.
 - Especializado en 🖥desarrollo 🖥️web y móvil📱con Android Studio.
 - Experiencia sólida en 📰bases de datos como MySQL, Oracle, FireBase y MongoDB🗄️.
@@ -36,13 +33,13 @@ L!GifHub_followersl(https://img.stpelds.io/github/followers/arisguimera?style=so
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=thekeneth0212&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
     bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thekeneth0212&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="adam-pw" /></p>
 
 <br>
